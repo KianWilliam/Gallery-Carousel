@@ -8,7 +8,7 @@ that shows the gallery under two conditions:
 the first is when width is greater than height,
 the second is when height is greater than width.
 you may download the module at:
-http://www.myextenstions.lord121.ir/index.php/dgc
+http://www.myextenstions.lord121.ir/2015-07-26-10-47-50/dgc.html
 In case of any problem contact me at:
 mezmer121@gmail.com
 long live science.
